@@ -1,6 +1,10 @@
 Pre-requisite:
 
 MONGO & NODE installation
+ 
+export JWT_SECRET="secretKey"
+
+COMMANDS:
 
 1)Run command 'npm i'
 2)Run command 'npm start' 
