@@ -1,10 +1,12 @@
 Pre-requisite:
+
 MONGO & NODE installation
 
 1)Run command 'npm i'
-2) Run command 'npm start' 
+2)Run command 'npm start' 
 
 CURLS: 
+
 SIGN UP CURL:
 curl --location 'http://localhost:3000/signup' \
 --header 'Content-Type: application/x-www-form-urlencoded' \
